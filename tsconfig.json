@@ -27,6 +27,7 @@
     "exclude": [
         "test",
         "release/build",
-        "release/app/dist"
+        "release/app/dist",
+        ".erb/dll"
     ]
 }
