@@ -1,1 +1,1 @@
-![brand](https://user-images.githubusercontent.com/49320100/151995179-9cbb93f3-1868-49f5-85eb-78c1e4b070e0.png)
+![brand](https://user-images.githubusercontent.com/49320100/152006852-4f991d26-6a7c-416d-9bd5-49923368a025.png)
