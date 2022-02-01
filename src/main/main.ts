@@ -67,14 +67,14 @@ const createWindow = async () => {
             nodeIntegration: true,
         },
         frame: false,
-        vibrancy: 'dark',
-        // vibrancy: {
-        //     theme: '#12345678',
-        //     effect: 'acrylic',
-        //     useCustomWindowRefreshMethod: true,
-        //     disableOnBlur: true,
-        //     debug: false,
-        // },
+        // vibrancy: 'dark',
+        vibrancy: {
+            theme: '#141414',
+            effect: 'acrylic',
+            useCustomWindowRefreshMethod: true,
+            disableOnBlur: true,
+            debug: false,
+        },
     });
 
     mainWindow.loadURL(resolveHtmlPath('index.html'));
