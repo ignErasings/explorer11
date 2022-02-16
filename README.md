@@ -1,2 +1,1 @@
-
-#### 🚗 Hey, we are moving our explorer from Electron to WPF. Please be patient, we are still working on other projects.
+![high quality image](https://user-images.githubusercontent.com/49320100/154318292-4f423964-e030-4a74-a780-4e00dc26e8ea.png)
